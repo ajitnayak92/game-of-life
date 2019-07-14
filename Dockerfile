@@ -1,2 +1,2 @@
 FROM tomcat:8.0
-COPY ./myapp.war /usr/local/tomcat/webapps
+COPY ./myapp.exec /usr/local/tomcat/webapps
